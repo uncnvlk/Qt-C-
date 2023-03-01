@@ -1,0 +1,9 @@
+/Users/elizavetasidorenkova/Desktop/iasu/CMakeFiles/iasu.dir
+/Users/elizavetasidorenkova/Desktop/iasu/CMakeFiles/edit_cache.dir
+/Users/elizavetasidorenkova/Desktop/iasu/CMakeFiles/rebuild_cache.dir
+/Users/elizavetasidorenkova/Desktop/iasu/CMakeFiles/list_install_components.dir
+/Users/elizavetasidorenkova/Desktop/iasu/CMakeFiles/install.dir
+/Users/elizavetasidorenkova/Desktop/iasu/CMakeFiles/install/local.dir
+/Users/elizavetasidorenkova/Desktop/iasu/CMakeFiles/install/strip.dir
+/Users/elizavetasidorenkova/Desktop/iasu/CMakeFiles/iasu_autogen_timestamp_deps.dir
+/Users/elizavetasidorenkova/Desktop/iasu/CMakeFiles/iasu_autogen.dir
